@@ -44,6 +44,7 @@ button{
 button:hover{
     background-color: #000000;
     color: white;
+   
 }
 .logo{
     color: #4E47FF;
@@ -66,7 +67,7 @@ button:hover{
 
         .hero h1 {
             font-size: 3.5rem;
-            font-weight: 700;
+            font-weight: bold;
             margin-bottom: 1rem;
             color: #1f2937;
         }
@@ -312,7 +313,7 @@ input, textarea {
   font-size: 100px;
   font-weight: bold;
   color: #4f46e5; 
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .description {
@@ -401,7 +402,7 @@ input, textarea {
     height: 48px;
     font-size: 16px;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     width: 175px;
 }
 .cta-content button:hover{
